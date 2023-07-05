@@ -11,9 +11,9 @@ require (
 	github.com/fasthttp/router v1.3.2
 	github.com/fsnotify/fsnotify v1.4.9
 	github.com/ghodss/yaml v1.0.0
-	github.com/golang/protobuf v1.4.3
-	github.com/google/go-cmp v0.5.2
-	github.com/google/uuid v1.1.2
+	github.com/golang/protobuf v1.5.2
+	github.com/google/go-cmp v0.5.9
+	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.7.3
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2
 	github.com/hashicorp/go-hclog v0.9.1
@@ -34,14 +34,14 @@ require (
 	github.com/prometheus/client_model v0.2.0
 	github.com/prometheus/common v0.14.0
 	github.com/sirupsen/logrus v1.6.0
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.8.1
 	github.com/valyala/fasthttp v1.16.0
 	github.com/yuin/gopher-lua v0.0.0-20200603152657-dc2b0ca8b37e // indirect
-	go.opencensus.io v0.22.5
+	go.opencensus.io v0.24.0
 	go.opentelemetry.io/otel v0.13.0
 	go.uber.org/atomic v1.6.0
-	google.golang.org/genproto v0.0.0-20201110150050-8816d57aaa9a
-	google.golang.org/grpc v1.33.1
+	google.golang.org/genproto v0.0.0-20230110181048-76db0878b65f
+	google.golang.org/grpc v1.53.0
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/square/go-jose.v2 v2.5.0 // indirect
 	gopkg.in/yaml.v2 v2.3.0
